@@ -1,6 +1,4 @@
 four
-<<<<<<< HEAD
-4
-=======
 aditaya jadhav
->>>>>>> main
+
+
